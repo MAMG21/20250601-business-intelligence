@@ -163,4 +163,4 @@ cython_debug/
 
 
 # Inforar la base de datos 
-my_database.db/
+my_database.db
