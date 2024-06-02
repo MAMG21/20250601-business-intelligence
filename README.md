@@ -18,3 +18,9 @@ motor de base de datos PostgreSQL.
 • Define KPI y métricas de consulta de los datos cargados en la base de datos
 
 ## Contenido del Repositorio
+
+1. Archivo de configuracion del entorno virtual del repositorio
+2. Diagrama de proceso ETL a la nube 
+3. Expliracion y configuracion de la base de datos 
+4. Script del ETL a la base de datos 
+5. Visualizacion de los KPI's y exploracion de variables
